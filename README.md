@@ -13,7 +13,7 @@
 
 ### Comunidade e Colaboração
 * **Para sugestão de temas** ✍️: [https://github.com/plebemineira/bhbitdevs.org/issues](https://github.com/plebemineira/bhbitdevs.org/issues)
-* **Meetup Bitdevs BH** ✍️: [https://www.meetup.com/belo-horizonte-bitdevs](https://www.meetup.com/belo-horizonte-bitdevs)
+* **Meetup Bitdevs BH** : [https://www.meetup.com/belo-horizonte-bitdevs](https://www.meetup.com/belo-horizonte-bitdevs)
 * **Discord da Vinteum com bitcoiners de todo o Brasil**: [https://discord.gg/vinteum](https://discord.gg/vinteum)
 
 ---
