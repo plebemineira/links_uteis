@@ -25,6 +25,8 @@
 ### Ferramentas de Aprendizado
 * **Learn Me A Bitcoin:** [https://learnmeabitcoin.com/](https://learnmeabitcoin.com/)
 
+* **Programming Lightning:** [A Free, Open-Source Guide to Programming the Bitcoin Lightning Network](https://programminglightning.com/)
+
 * **MineSim: Cryptocurrency POW mining simulator** [https://github.com/LarryRuane/minesim](https://github.com/LarryRuane/minesim)
 
 * **Ian Coleman: BIP39 Mnemonic Code Converter** [https://iancoleman.io/](https://iancoleman.io/)
