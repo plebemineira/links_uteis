@@ -5,6 +5,8 @@
 
 * **Mastering Bitcoin:** [https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md](https://github.com/bitcoinbook/bitcoinbook/blob/develop/BOOK.md)
 
+* **Blockchain Engineering:** livro aberto sobre fundamentos, Bitcoin, Ethereum, contratos inteligentes, DeFi, segurança e infraestrutura, disponível em inglês e português. [https://guilhermealbert.github.io/blockchain-engineering/](https://guilhermealbert.github.io/blockchain-engineering/)
+
 * **Bitcoin Development Philosophy:** [https://bitcoindevphilosophy.com/](https://bitcoindevphilosophy.com/)
 
 * **Learning Bitcoin from the Command Line:** [https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
